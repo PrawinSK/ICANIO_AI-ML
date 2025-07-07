@@ -6,7 +6,7 @@ This repository contains a compilation of the projects and tasks I worked on dur
 
 **Organization:** Icanio  
 **Role:** AI/ML Intern  
-**Duration:** [Insert Internship Period, e.g., May 2025 – July 2025]  
+**Duration:** [Insert Internship Period, e.g., june 2025 – July 2025]  
 **Domain:** Artificial Intelligence and Machine Learning
 
 During this internship, I was involved in a variety of end-to-end machine learning workflows, focusing on building intelligent systems through data-driven techniques. My responsibilities spanned data preprocessing, feature engineering, model development, performance evaluation, and optimization.
